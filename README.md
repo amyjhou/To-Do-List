@@ -4,4 +4,4 @@ This repository implements a to-do list.
 
 ## Details
 
-> TODO: start implementing
+> TODO: start implementing soon
